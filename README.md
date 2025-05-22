@@ -84,3 +84,13 @@ O modelo foi validado com dados reais de várias regiões de Ontário, e demonst
 Alex Campos do Nascimento  
 Email: [alex_cn2001@hotmail.com]  
 FACOM - Universidade Federal de Uberlândia
+
+---
+
+## Licença
+
+Este projeto está licenciado sob a [Licença Pública Geral GNU v3.0](https://www.gnu.org/licenses/gpl-3.0.html).
+
+Você é livre para usar, modificar e distribuir este código, desde que qualquer trabalho derivado também seja licenciado sob os mesmos termos, garantindo que ele continue livre para todos.
+
+Consulte o arquivo [LICENSE](./LICENSE) para mais detalhes.
